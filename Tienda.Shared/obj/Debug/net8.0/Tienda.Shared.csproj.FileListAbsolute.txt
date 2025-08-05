@@ -1,0 +1,11 @@
+C:\Users\gabri\Desktop\TiendaPrueba\Tienda.Shared\bin\Debug\net8.0\Tienda.Shared.deps.json
+C:\Users\gabri\Desktop\TiendaPrueba\Tienda.Shared\bin\Debug\net8.0\Tienda.Shared.dll
+C:\Users\gabri\Desktop\TiendaPrueba\Tienda.Shared\bin\Debug\net8.0\Tienda.Shared.pdb
+C:\Users\gabri\Desktop\TiendaPrueba\Tienda.Shared\obj\Debug\net8.0\Tienda.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\TiendaPrueba\Tienda.Shared\obj\Debug\net8.0\Tienda.Shared.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\TiendaPrueba\Tienda.Shared\obj\Debug\net8.0\Tienda.Shared.AssemblyInfo.cs
+C:\Users\gabri\Desktop\TiendaPrueba\Tienda.Shared\obj\Debug\net8.0\Tienda.Shared.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\TiendaPrueba\Tienda.Shared\obj\Debug\net8.0\Tienda.Shared.dll
+C:\Users\gabri\Desktop\TiendaPrueba\Tienda.Shared\obj\Debug\net8.0\refint\Tienda.Shared.dll
+C:\Users\gabri\Desktop\TiendaPrueba\Tienda.Shared\obj\Debug\net8.0\Tienda.Shared.pdb
+C:\Users\gabri\Desktop\TiendaPrueba\Tienda.Shared\obj\Debug\net8.0\ref\Tienda.Shared.dll
